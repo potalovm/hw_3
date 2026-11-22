@@ -1,0 +1,1 @@
+{"greeting": "Privet iz Docker!", "count": 1, "hostname": "7848ca4372b4", "storage": "sqlite"}

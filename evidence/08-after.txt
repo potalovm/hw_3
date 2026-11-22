@@ -1,0 +1,1 @@
+{"greeting": "Hello", "count": 2, "hostname": "f1b2e93c7326", "storage": "redis"}
